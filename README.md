@@ -15,7 +15,7 @@ How to Use:
 4.Save notes to file.
 5.Load previouslysaved notes from a file.
 6.Exit a program.
-Follow the prompts to perform u=yuor desired action.
+Follow the prompts to perform your desired action.
 Requirements:
 C++ compiler 
 Authors:
